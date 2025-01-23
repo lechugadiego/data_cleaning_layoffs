@@ -6,7 +6,7 @@
 
 
 
-Steps
+## Steps
 1. check for and remove any duplicates
 2. standardize data and fix errors
 3. Look at null values
