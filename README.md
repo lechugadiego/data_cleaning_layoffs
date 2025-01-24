@@ -1,6 +1,6 @@
 # Data Cleaning using MySQL
 
-## In this project I took "layoffs.csv", which included over 2000 entries, imported it into MySQL and cleaned the data.
+## In this project I took "layoffs.csv", which included over 2000 entries, and transformed it in MySQL to make it more usable for analysis.
 ## SQL queries located in "layoffs_cleaning.sql"
 
 
